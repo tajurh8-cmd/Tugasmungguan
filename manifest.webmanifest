@@ -1,0 +1,26 @@
+{
+  "id": "./index.html",
+  "name": "Dokumentasi Kebersihan B378",
+  "short_name": "Kebersihan B378",
+  "description": "Dokumentasi BEFORE-AFTER kebersihan mingguan Toko B378-FRC Malangbong",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f1f3f5",
+  "theme_color": "#e31b2b",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

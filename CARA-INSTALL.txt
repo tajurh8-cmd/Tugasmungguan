@@ -1,0 +1,12 @@
+DOKUMENTASI KEBERSIHAN B378 - PWA
+
+CARA PASANG DI ANDROID
+1. Upload seluruh isi folder ini ke hosting yang mendukung HTTPS.
+2. Buka alamat index.html melalui Chrome Android.
+3. Pilih menu Install aplikasi / Tambahkan ke layar utama.
+4. Setelah terpasang, aplikasi dapat dibuka seperti aplikasi biasa dan dipakai offline setelah pemuatan pertama.
+
+PENTING
+- PWA harus dibuka melalui HTTPS (atau localhost untuk pengujian). Tidak dapat di-install dari file:// langsung.
+- Upload index.html, manifest.webmanifest, sw.js, dan folder icons bersama-sama dalam satu lokasi.
+- Data foto dan pekerjaan disimpan di penyimpanan lokal perangkat melalui IndexedDB. Jangan hapus data browser jika ingin mempertahankan dokumentasi.
