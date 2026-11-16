@@ -1,8 +1,8 @@
 {
   "id": "./index.html",
-  "name": "Dokumentasi Kebersihan B378",
-  "short_name": "Kebersihan B378",
-  "description": "Dokumentasi BEFORE-AFTER kebersihan mingguan Toko B378-FRC Malangbong",
+  "name": "TaskCam",
+  "short_name": "TaskCam",
+  "description": "TaskCam - Dokumentasi BEFORE-AFTER kebersihan mingguan Toko B378-FRC Malangbong",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
